@@ -1,2 +1,3 @@
-# my_first_repo
-My first practice repo
+##I accidentally deleted everything
+
+Make sure to press I to enter insert mode
